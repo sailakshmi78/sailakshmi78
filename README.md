@@ -1,4 +1,7 @@
-Python-based data analytics and software development projects involving real-world datasets.<br>Open-source Python projects, data analytics dashboards, and beginner-friendly backend applications.<br>Improving code structure, best practices in backend development, and real-world project optimization.<br>Advanced Python, SQL optimization, REST APIs, and applied data analytics techniques.<br>Python, SQL, data analytics projects, GitHub project structuring, and beginner software development.<br>I enjoy turning raw datasets into meaningful insights and clean, readable code.<br>
+I build Python-based data analytics and backend-focused applications using real-world datasets.
+My work includes data analysis dashboards, security-focused tools, and beginner-friendly backend projects. I focus on writing clean, structured code, using SQL for data handling, REST APIs for integration, and Python for analysis and automation.
+I enjoy transforming raw data into meaningful insights and building practical software solutions while continuously improving my engineering fundamentals.
+
 
 
 # 💻 Tech Stack:
