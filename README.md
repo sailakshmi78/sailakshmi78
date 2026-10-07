@@ -30,7 +30,7 @@ I enjoy transforming raw data into meaningful insights and building practical so
 <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&font=Karma&ext=heatmap"
-    width="900"
+    width="1300"
     alt="Sai Lakshmi Karanam LeetCode Stats"
   />
 </p>
@@ -46,16 +46,7 @@ Data analysis and visualization project using Python, SQL and Power BI.
 ### 🛡️ Malicious Website Blocker
 Security-focused application for identifying and blocking potentially malicious websites.
 
----
 
-# 📚 DSA Journey
-
-- 🧠 LeetCode: 43+ Problems
-- 🔥 Striver A2Z: 48+ Problems
-- 🐍 Primary Language: Python
-- 🎯 Goal: 250+ DSA Problems
-
----
 
 # 📫 Connect With Me
 
