@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gufran21/LeetCodeProfileGenerator@v1
+      - uses: gufran21/LeetCodeProfileGenerator@main
         with:
           username: "sailakshmikaranam84"
           theme: "github_dark"
