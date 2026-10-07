@@ -26,7 +26,7 @@ I enjoy transforming raw data into meaningful insights and building practical so
 
 <p align="center">
   <img
-    src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=heatmap&theme=github-dark&hide_border=true"
+    src="https://leetcode-stats-six.vercel.app/sailakshmikaranam84/graph?theme=dark&width=1200"
     width="100%"
     alt="LeetCode Submission Heatmap"
   />
