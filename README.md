@@ -23,15 +23,6 @@ I enjoy transforming raw data into meaningful insights and building practical so
 
 ---
 
-<p align="center">
-  <img
-    src="./assets/heatmap.svg"
-    width="100%"
-    alt="LeetCode Submission Heatmap"
-  />
-</p>
----
-
 # 🚀 Projects
 
 ### 🚍 Unified Real-Time Transport Monitoring Platform
