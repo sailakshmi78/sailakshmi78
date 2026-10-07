@@ -23,15 +23,13 @@ I enjoy transforming raw data into meaningful insights and building practical so
 
 ---
 
-# 🧠 LeetCode Progress
-
-# 🧠 LeetCode Progress
+# 🧠 LeetCode Activity
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&font=Karma&ext=heatmap"
-    width="1300"
-    alt="Sai Lakshmi Karanam LeetCode Stats"
+    src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&ext=heatmap"
+    width="100%"
+    alt="LeetCode Activity Heatmap"
   />
 </p>
 
