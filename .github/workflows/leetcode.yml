@@ -1,0 +1,23 @@
+name: LeetCode Heatmap
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gufran21/LeetCodeProfileGenerator@v1
+        with:
+          username: "sailakshmikaranam84"
+          theme: "github_dark"
+          generate_heatmap: "true"
+          auto_commit: "true"
