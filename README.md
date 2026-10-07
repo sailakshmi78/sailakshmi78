@@ -1,15 +1,87 @@
+# 👋 Hi, I'm Sai Lakshmi Karanam
+
+### 💻 Python Developer | Backend Developer | AI & ML
+
 I build Python-based data analytics and backend-focused applications using real-world datasets.
-My work includes data analysis dashboards, security-focused tools, and beginner-friendly backend projects. I focus on writing clean, structured code, using SQL for data handling, REST APIs for integration, and Python for analysis and automation.
+
 I enjoy transforming raw data into meaningful insights and building practical software solutions while continuously improving my engineering fundamentals.
 
+---
 
+# 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sailakshmi78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sailakshmi78&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sailakshmi78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sailakshmi78&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&font=Karma&ext=heatmap" alt="Sai Lakshmi's LeetCode Stats"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sailakshmi78&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sailakshmi78&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailakshmi78&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+---
+
+# 🚀 Projects
+
+### 🚍 Unified Real-Time Transport Monitoring Platform
+Real-time vehicle tracking platform using Django, WebSockets, Leaflet and GPS.
+
+### 💳 Credit Card Fraud Analysis Dashboard
+Data analysis and visualization project using Python, SQL and Power BI.
+
+### 🛡️ Malicious Website Blocker
+Security-focused application for identifying and blocking potentially malicious websites.
+
+---
+
+# 📚 DSA Journey
+
+- 🧠 LeetCode: 43+ Problems
+- 🔥 Striver A2Z: 48+ Problems
+- 🐍 Primary Language: Python
+- 🎯 Goal: 250+ DSA Problems
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sailakshmi78">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sailakshmikaranam84/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>🚀 Learning every day. Building every day.</i>
+</p>
