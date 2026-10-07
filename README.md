@@ -26,11 +26,7 @@ I enjoy transforming raw data into meaningful insights and building practical so
 # 🧠 LeetCode Activity
 
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&ext=heatmap"
-    width="100%"
-    alt="LeetCode Activity Heatmap"
-  />
+  <img src="https://leetgraph.com/?username=sailakshmikaranam84" width="100%" alt="LeetCode Heatmap"/>
 </p>
 
 # 🚀 Projects
