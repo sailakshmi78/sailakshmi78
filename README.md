@@ -23,16 +23,13 @@ I enjoy transforming raw data into meaningful insights and building practical so
 
 ---
 
-# 🧠 LeetCode Activity
-
 <p align="center">
   <img
-    src="https://leetcode-stats-six.vercel.app/sailakshmikaranam84/graph?theme=dark&width=1200"
+    src="./assets/heatmap.svg"
     width="100%"
     alt="LeetCode Submission Heatmap"
   />
 </p>
-
 ---
 
 # 🚀 Projects
