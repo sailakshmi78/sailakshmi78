@@ -22,11 +22,14 @@ I enjoy transforming raw data into meaningful insights and building practical so
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 # 🧠 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetgraph.com/?username=sailakshmikaranam84" width="100%" alt="LeetCode Heatmap"/>
+  <img
+    src="https://github-readme-leetcode-stats.vercel.app/api/card?sections=heatmap&theme=github-dark&hide_border=true"
+    width="100%"
+    alt="LeetCode Submission Heatmap"
+  />
 </p>
 
 # 🚀 Projects
