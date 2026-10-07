@@ -25,27 +25,15 @@ I enjoy transforming raw data into meaningful insights and building practical so
 
 # 🧠 LeetCode Progress
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&font=Karma&ext=heatmap" alt="Sai Lakshmi's LeetCode Stats"/>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sailakshmi78&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img
+    src="https://leetcard.jacoblin.cool/sailakshmikaranam84?theme=dark&font=Karma&ext=heatmap"
+    width="900"
+    alt="Sai Lakshmi Karanam LeetCode Stats"
+  />
 </p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sailakshmi78&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailakshmi78&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
----
 
 # 🚀 Projects
 
