@@ -22,6 +22,7 @@ I enjoy transforming raw data into meaningful insights and building practical so
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 # 🧠 LeetCode Activity
 
 <p align="center">
@@ -32,18 +33,23 @@ I enjoy transforming raw data into meaningful insights and building practical so
   />
 </p>
 
+---
+
 # 🚀 Projects
 
 ### 🚍 Unified Real-Time Transport Monitoring Platform
+
 Real-time vehicle tracking platform using Django, WebSockets, Leaflet and GPS.
 
 ### 💳 Credit Card Fraud Analysis Dashboard
+
 Data analysis and visualization project using Python, SQL and Power BI.
 
 ### 🛡️ Malicious Website Blocker
+
 Security-focused application for identifying and blocking potentially malicious websites.
 
-
+---
 
 # 📫 Connect With Me
 
