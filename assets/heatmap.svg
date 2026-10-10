@@ -21,8 +21,8 @@
 <rect x="0.5" y="0.5" width="824" height="225" rx="12" fill="url(#bg_grad)" stroke="#30363d" stroke-width="1" filter="url(#card_shadow)"/>
 <g class="heatmap-content">
 <g transform="translate(24,26) scale(0.6666666666666666)"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2Zm0 16H5V8h14v11Z" fill="#8b949e"/></g>
-<text x="46" y="39" font-size="14" fill="#e6edf3" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">65 submissions in the past year</text>
-<text x="801" y="39" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-size="11" text-anchor="end"><tspan fill="#8b949e">Total active days: </tspan><tspan fill="#e6edf3" font-weight="bold">26</tspan><tspan fill="#8b949e">   Max streak: </tspan><tspan fill="#e6edf3" font-weight="bold">10</tspan></text>
+<text x="46" y="39" font-size="14" fill="#e6edf3" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="bold">67 submissions in the past year</text>
+<text x="801" y="39" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-size="11" text-anchor="end"><tspan fill="#8b949e">Total active days: </tspan><tspan fill="#e6edf3" font-weight="bold">27</tspan><tspan fill="#8b949e">   Max streak: </tspan><tspan fill="#e6edf3" font-weight="bold">10</tspan></text>
 <text x="52" y="71" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Oct</text>
 <text x="108" y="71" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Nov</text>
 <text x="178" y="71" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Dec</text>
@@ -409,7 +409,7 @@
 <rect x="780" y="119" width="11" height="11" rx="2" fill="#39d353"><title>Oct 07, 2026: 11 submissions</title></rect>
 <rect x="780" y="133" width="11" height="11" rx="2" fill="#0e4429"><title>Oct 08, 2026: 3 submissions</title></rect>
 <rect x="780" y="147" width="11" height="11" rx="2" fill="#161b22"><title>Oct 09, 2026: 0 submissions</title></rect>
-<rect x="780" y="161" width="11" height="11" rx="2" fill="#161b22"><title>Oct 10, 2026: 0 submissions</title></rect>
+<rect x="780" y="161" width="11" height="11" rx="2" fill="#0e4429"><title>Oct 10, 2026: 2 submissions</title></rect>
 <text x="629" y="197" font-size="9" fill="#8b949e" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Ubuntu, sans-serif" font-weight="normal">Less</text>
 <rect x="661" y="188" width="11" height="11" rx="2" fill="#161b22"/>
 <rect x="675" y="188" width="11" height="11" rx="2" fill="#0e4429"/>
